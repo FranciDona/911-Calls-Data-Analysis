@@ -1,5 +1,5 @@
-# DataVizProject_911Calls
-This is a data visualization project using the Kaggle [911 calls dataset](https://www.kaggle.com/mchirico/montcoalert). The dataset contains:
+# 911Calls Data Analysis
+This is a data analysis and visualization project using the Kaggle [911 calls dataset](https://www.kaggle.com/mchirico/montcoalert). The dataset contains:
 
 * lat : String variable, Latitude
 * lng: String variable, Longitude
